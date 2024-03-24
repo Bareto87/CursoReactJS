@@ -1,0 +1,10 @@
+PARA CREAR UN PROYECTO:
+
+En terminal, escribimos "yarn create vite", a continuacion nos pedirá el nombre que le queremos dar al proyecto, tras esto nos pedira que indiquemos el Framework en el que vamos a trabajar.
+
+Tras esto copiamos las 3 lineas que nos apareceran en la terminal:
+Nombre del proyecto.
+yarn (esto instalará los paquetes de nodes que faltan)
+yarn dev (nos mostrará una direccion en la cual veremos nuestro proyecto)
+
+Copiamos esas lineas y las pegamos en la terminal
